@@ -35,11 +35,11 @@ A **Java Swing-based desktop application** for securely encrypting and decryptin
 ## 🖥️ Screenshots
 
 <p align="center">
-  <img src="screenshots\java1.png" width="600"/>
+  <img src="screenshots\java2.png" width="600"/>
 </p>
 
 <p align="center">
-  <img src="screenshots\java2.png" width="600"/>
+  <img src="screenshots\java1.png" width="600"/>
 </p>
 ---
 
