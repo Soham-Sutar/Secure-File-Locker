@@ -14,7 +14,7 @@ A **Java Swing-based desktop application** for securely encrypting and decryptin
   - Images (`.png`, `.jpg`)
   - Documents (`.pdf`, `.ppt`, `.docx`)
   - Archives (`.zip`)
-  - And more...
+  - And more.
 
 - 🖱️ **User-Friendly Interface**
   - Drag & Drop file support
