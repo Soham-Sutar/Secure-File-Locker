@@ -41,7 +41,7 @@ A **Java Swing-based desktop application** for securely encrypting and decryptin
 <p align="center">
   <img src="screenshots\java1.png" width="600"/>
 </p>
----
+
 
 ## 🚀 Getting Started
 
@@ -56,3 +56,12 @@ A **Java Swing-based desktop application** for securely encrypting and decryptin
 ```bash
 javac SecureFileLocker.java
 java SecureFileLocker
+```
+## 📜 License
+
+This project is open-source and available under the MIT License.
+
+---
+
+
+
